@@ -1,0 +1,14 @@
+C:\Users\Brandon Johnson\source\repos\Johnson_Assignment6\Johnson_Assignment6\bin\Debug\Johnson_Assignment6.exe.config
+C:\Users\Brandon Johnson\source\repos\Johnson_Assignment6\Johnson_Assignment6\bin\Debug\Johnson_Assignment6.exe
+C:\Users\Brandon Johnson\source\repos\Johnson_Assignment6\Johnson_Assignment6\bin\Debug\Johnson_Assignment6.pdb
+C:\Users\Brandon Johnson\source\repos\Johnson_Assignment6\Johnson_Assignment6\obj\Debug\Johnson_Assignment6.csprojAssemblyReference.cache
+C:\Users\Brandon Johnson\source\repos\Johnson_Assignment6\Johnson_Assignment6\obj\Debug\Johnson_Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Johnson\source\repos\Johnson_Assignment6\Johnson_Assignment6\obj\Debug\Johnson_Assignment6.exe
+C:\Users\Brandon Johnson\source\repos\Johnson_Assignment6\Johnson_Assignment6\obj\Debug\Johnson_Assignment6.pdb
+C:\Users\Brandon Johnson\Documents\School\Online\C#\Assignment 6\Johnson_Assignment6\Johnson_Assignment6\bin\Debug\Johnson_Assignment6.exe.config
+C:\Users\Brandon Johnson\Documents\School\Online\C#\Assignment 6\Johnson_Assignment6\Johnson_Assignment6\bin\Debug\Johnson_Assignment6.exe
+C:\Users\Brandon Johnson\Documents\School\Online\C#\Assignment 6\Johnson_Assignment6\Johnson_Assignment6\bin\Debug\Johnson_Assignment6.pdb
+C:\Users\Brandon Johnson\Documents\School\Online\C#\Assignment 6\Johnson_Assignment6\Johnson_Assignment6\obj\Debug\Johnson_Assignment6.csprojAssemblyReference.cache
+C:\Users\Brandon Johnson\Documents\School\Online\C#\Assignment 6\Johnson_Assignment6\Johnson_Assignment6\obj\Debug\Johnson_Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Johnson\Documents\School\Online\C#\Assignment 6\Johnson_Assignment6\Johnson_Assignment6\obj\Debug\Johnson_Assignment6.exe
+C:\Users\Brandon Johnson\Documents\School\Online\C#\Assignment 6\Johnson_Assignment6\Johnson_Assignment6\obj\Debug\Johnson_Assignment6.pdb
